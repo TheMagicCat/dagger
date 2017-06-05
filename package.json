@@ -1,0 +1,20 @@
+{
+  "name": "dagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMagicCat/dagger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMagicCat/dagger/issues"
+  },
+  "homepage": "https://github.com/TheMagicCat/dagger#readme"
+}
